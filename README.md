@@ -32,10 +32,10 @@ To run the tests:
 # Implementation Details
 The program implements the following methods:
 
-Neville's method for polynomial interpolation
-Newton's forward difference method
-Newton interpolation
-Hermite interpolation
-Cubic spline interpolation
+- Neville's method for polynomial interpolation
+- Newton's forward difference method
+- Newton interpolation
+- Hermite interpolation
+- Cubic spline interpolation
 
 Each method is implemented in its own function with appropriate documentation and test cases.
