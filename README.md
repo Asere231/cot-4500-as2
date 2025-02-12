@@ -9,6 +9,7 @@ Install requirements using:
 ```bash pip install -r requirements.txt```
 
 Project Structure:
+```bash
 cot-4500-as2/
 |-- src/
 |   |-- main/
@@ -19,6 +20,7 @@ cot-4500-as2/
 |   |   |-- test_assignment_2.py
 |-- requirements.txt
 |-- README.md
+```
 
 # Running the Program
 To run the main program:
